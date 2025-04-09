@@ -1,4 +1,4 @@
-# trpositionopener for meta trader 5
+# TR - Position Opener for meta trader 5
 Trade Runner Position Opener 
 Testing and logical building: Fazakas Szabolcs
 Scripting: AI (deepseek)
